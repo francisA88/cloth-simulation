@@ -1,5 +1,5 @@
 # Code refactored by ChatGPT.
-# My original code worked well, yes, but was quite messy as I wrote it years ago so I had ChatGPT clean it up
+# My original code worked well, yes, but was quite messy as I wrote it years ago so I had ChatGPT make the code neater, retaining my original algorithm
 
 from kivy.core.window import Window
 from kivy.factory import Factory as F
